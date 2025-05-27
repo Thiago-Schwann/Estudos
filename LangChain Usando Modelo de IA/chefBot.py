@@ -90,4 +90,4 @@ while True:
   mensagens.append(('assistant', resposta))
   print(f'\nBot: {resposta}')
 
-print('Muito obrigado por usar o AsimoBot')
+print('Muito obrigado por usar o ChefBot!')
