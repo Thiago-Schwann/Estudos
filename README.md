@@ -11,4 +11,4 @@ Além de ser uma ferramenta para meu próprio desenvolvimento, este repositório
 ## 📌 Temas estudados até agora
 
 - [x] **Análise de Dados no Portal da Transparência** — Desenvolvimento de scripts para coleta, limpeza e análise de dados públicos.
-- [x] **LangChain Usando Modelo de IA** — Exploração de aplicações com LangChain para integração de modelos de linguagem em fluxos automatizados.
+- [x] **LangChain Usando Modelo de IA** — Exploração de aplicações com LangChain para integração de modelos de linguagem.
