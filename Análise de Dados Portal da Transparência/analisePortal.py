@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-ano = 2023
+ano = 2024
 caminho_dados = f'{ano}_Viagem.csv' #Arquivo CSV impossibilita o push
 caminho_saida_tabela = f'tabela_{ano}.xlsx'
 caminho_saida_grafico = f'grafico_{ano}.png'
