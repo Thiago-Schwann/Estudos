@@ -12,4 +12,4 @@ Além de ser uma ferramenta para meu próprio desenvolvimento, este repositório
 
 - [x] **Análise de Dados no Portal da Transparência** — Desenvolvimento de scripts para coleta, limpeza e análise de dados públicos.
 - [x] **LangChain Usando Modelo de IA** — Exploração de aplicações com LangChain para integração de modelos de linguagem.
-- [ ] **Automatização com PyAutoGUI** — Estudo de automação de tarefas repetitivas através da simulação de ações humanas, como movimentação do mouse, cliques e digitação.
+- [x] **Automatização com PyAutoGUI** — Estudo de automação de tarefas repetitivas através da simulação de ações humanas, como movimentação do mouse, cliques e digitação.
